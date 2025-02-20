@@ -1,5 +1,10 @@
 ## Hi there 👋
-![My Skills](https://skillicons.dev/icons?!=css,html,java,js,kotlin,react,)
+
+write
+
+![My Skills](https://skillicons.dev/icons?i=css,html,java,js,kotlin,react,)
+
+<a href ="https://www.linkedin.com/in/ramon-veloz"/> <img src="https://img.shields.io/badge/%2540-LinkedIn-blue?label=%20"/>
 <!--
 **ramonveloz/ramonveloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
