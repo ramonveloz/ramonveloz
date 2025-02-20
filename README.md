@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![My Skills](https://skillicons.dev/icons?!=css,html,java,js,kotlin,react,)
 <!--
 **ramonveloz/ramonveloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
